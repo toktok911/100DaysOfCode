@@ -16,7 +16,7 @@ I may add more as the challenge goes. But these three points however are more cr
 Each folder in the repository resembles a day in the 100 days period. 
 - days 1-10: On Twitter with Python. 
 - days 11-20: Data cleaning & preprocessing. 
-- days 21-30: Data visualization 
+- days 21-30: Exploratory data analysis - Data visualization 
 - days 31-40: 
 - days 41-50: 
 - days 51-60: 
