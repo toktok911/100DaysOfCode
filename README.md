@@ -14,6 +14,7 @@ I may add more as the challenge goes. But these three points however are more cr
 
 ## Structure of the 100 days: [Up to change]
 Each folder in the repository resembles a day in the 100 days period. 
+Steps, notes, comments and questions will be all written in the jupyter notebooks (.ipynb), while the code is found in the python files (.py).
 - days 1-10: On Twitter with Python. 
 - days 11-20: Data cleaning & preprocessing. 
 - days 21-30: Exploratory data analysis - Data visualization 
